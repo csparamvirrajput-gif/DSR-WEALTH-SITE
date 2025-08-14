@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dsrwealth.in/sitemap.xml
+Host: dsrwealth.in
